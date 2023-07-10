@@ -1,0 +1,68 @@
+
+html, body {
+    
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    column-count: 2;
+    padding-left: 60px;
+    padding-top:35px;
+   
+}
+main{
+    
+    column-count: 2;
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:35px;
+    
+}
+h3{
+    color:rgb(42, 146, 206);
+    letter-spacing: 0.25rem;
+    
+}
+.button{
+    
+    border:transparent; 
+    font-size: 27px;
+    background-color:white;
+    padding-top: 15px;
+    padding-left: 500px;
+    fill: rgb(42, 146, 206); /* da color al icono svg */
+}
+
+h1{
+    color:rgb(42, 146, 206);
+    width: 280px;
+    font-size:38px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+p{
+    font-size: large;
+    color:rgb(122, 121, 121);
+
+}
+
+hr{
+    height:3px;
+    border:none;
+    background:rgb(42, 146, 206);
+    width: 100px;
+    position:absolute;
+
+}
+
+.button2{
+    font-size: medium;
+    color:white;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    border: 0px;
+    border-radius: 5px;
+    height:50px;
+    width: 200px;
+}
