@@ -28,7 +28,8 @@
         border:transparent;
         border-radius:15px
         padding-top: 8px;
-        padding-left: 8px;     
+        padding-left: 8px; 
+        margin:8px;
     }
 
     h1{
