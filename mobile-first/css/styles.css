@@ -1,0 +1,131 @@
+ @media (max-width: 768px){
+    html,body{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        padding-top:10px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+            
+    }
+    main{
+        padding-bottom: 0px;
+        padding-left: 27px;
+        padding-right: 27px;
+    }
+    nav{
+        background-color:white; 
+    }
+    .lista, .elementos-barra{
+        display:inline;
+
+    }
+    #titulo{
+        color:black;
+        font-weight: bold;
+        font-size:24px ;
+    }
+    
+    .busqueda{
+        background-color: white;
+        border-color:transparent;
+        width: 500px;
+
+    }
+    
+    #buscador, #menu{
+        border: none;
+        background-color: white;
+       
+    }
+    
+    label{
+        color:rgb(41, 40, 40);
+        font-size: 15px;
+    }
+    .barra-superior{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-around;
+        align-items:left;
+        background-color: white;
+        color:rgb(65, 64, 64);
+        font-size:20px;
+        font-weight:bold;
+            
+    }
+    .elementos-barra1{
+        display:flex;
+        width: auto; 
+        
+    }
+    a{
+        color:black;
+        text-decoration: none;
+    }
+
+    fieldset{
+        display:grid;
+        grid-template-columns: 3fr 2fr;
+        border-radius: 6px;
+        border-color: gainsboro;
+        border:1.3px;
+        padding: 3px;  
+        box-shadow:6px 6px 12px rgb(168, 167, 167); /*para poner sombra*/
+    }
+    img{
+        border-radius:6px;   
+    }
+
+    .titular{
+        color:black;
+        font-weight: bolder;
+        font-size: 22px;
+        text-decoration: none;
+        
+    }
+    .autor{
+        font-size: 18px;
+        font-weight: bold;
+        padding-top: 10px;
+        
+    }
+   
+    .iconos{
+        padding-top: 5rem;
+        column-count: 2;
+    }
+
+    .barra-inferior{
+        display: flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:left;
+        background:rgb(5, 5, 5) ;
+        color:white;
+        height: 100px;
+        font-size: 22px; 
+        border-radius: 6px; 
+        padding-bottom: 0px; 
+    }
+    .elementos-barra2{
+        display:inline-flex;
+        width: 30%;    
+    }
+    
+    #icono3{
+        background-color: black;
+        border:transparent;
+        padding-left: 170px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
