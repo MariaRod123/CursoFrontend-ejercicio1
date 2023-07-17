@@ -16,3 +16,9 @@
   
     ![2023-07-10_15h45_32](https://github.com/MariaRod123/CursoFrontend-practica1/assets/72228855/2ced8e8e-a53e-44e7-a1a5-926366c6ecc8)
 
+
+- Maquetado pantalla móvil Home
+
+     - ![index](https://github.com/MariaRod123/CursoFrontend-practica1/assets/72228855/214238cb-43bb-4726-824a-42d163e70ed4)
+
+    
